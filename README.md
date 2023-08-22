@@ -17,5 +17,5 @@
   - I created an immersive VR artworks: [City Of Sparkles](https://cityofsparkles.art)
 - My Education:
   - Stanford CS
-  - Tsinghua CS Class
+  - Tsinghua CS 
 
