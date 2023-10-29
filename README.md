@@ -5,7 +5,8 @@
 - Research Interests:
   - Mixed Reality Co-presence Design 
     - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality
-  - Mixed Reality as Media Arts 
+  - Mixed Reality as Media Arts
+  - Playable City
   - Autonomous Worlds
   - Artificial Life 
     - Interspecies Presence
