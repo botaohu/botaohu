@@ -1,13 +1,16 @@
 
-### Hi there, this is Botao Amber Hu. 
-- 🔭 I’m currently working on Spatial Computing and Autonomous World.
+### Hi there, 
+- 🔭 This is Botao Amber Hu.
+- I'm a researcher, designer & creative technologist for spatial computing and autonomous worlds
 - Research Interests:
-  - Mixed Reality Co-presence
+  - Mixed Reality
+    - Co-presence
     - Co-location
     - Tele-presence
     - Inter-presence
     - Cross-reality
-  - Artificial Life
+  - Media arts
+  - Autonomous Worlds & Artificial Life (Soft)
     - Interspecies Presence
 - ⚡ Fun facts: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
