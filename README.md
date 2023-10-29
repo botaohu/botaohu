@@ -1,9 +1,9 @@
 
 ### Hi there, 
 - 👨‍🦱 This is Botao Amber Hu.
-- I'm a Researcher, Designer & Creative Technologist for Spatial Computing
-- I'm the founder of a spatial computing lab, [Holo Interactive](https://holoi.com). 
-- 🔭 Research Interests:
+- I'm a Researcher, Designer & Creative Technologist for Spatial Computing.
+- I'm the founder of a creative spatial computing lab, [Holo Interactive](https://holoi.com). 
+- 🔭 My research interests:
   - Design, inventing, engineering, open-sourcing for creation tools of Spatial Computing
   - Mixed Reality Presence
     - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality
