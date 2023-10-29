@@ -1,6 +1,8 @@
 
 ### Hi there, this is Botao Amber Hu. 
 - 🔭 I’m currently working on Spatial Computing and Autonomous World.
+- Research Interests:
+  - Mixed Reality Co-presence: Co-location / Telepresence / Interpresence
 - ⚡ Fun fact: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
   - I designed an award-winning multiplayer AR game: [MOFA](https://mofa.ar)
