@@ -1,9 +1,9 @@
 
 ### Hi there, 
 - 👨‍🦱 This is Botao Amber Hu.
-- I'm a researcher, designer & creative technologist for spatial computing and autonomous worlds
+- I'm a Researcher, Designer & Creative Technologist for spatial computing and autonomous worlds
 - 🔭 Research Interests:
-  - Design, engineering, open-sourcing for creation tools of Spatial Computing
+  - Design, inventing, engineering, open-sourcing for creation tools of Spatial Computing
   - Mixed Reality Presence
     - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality
   - Mixed Reality for Media Arts
