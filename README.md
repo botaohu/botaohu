@@ -1,7 +1,3 @@
-![‎holoi_shanhaiwoo_courses ‎001](https://github.com/botaohu/botaohu/assets/2534431/79afa95f-b628-47cb-8d73-de236e05d737)
-![‎holoi_shanhaiwoo_courses ‎002](https://github.com/botaohu/botaohu/assets/2534431/04f16a09-6a3f-46f7-a58f-38e8bfba46fb)
-![‎holoi_shanhaiwoo_courses ‎003](https://github.com/botaohu/botaohu/assets/2534431/70a6d80a-ff05-44e4-875e-e31d9e0e6745)
-
 
 ### Hi there, this is Botao Amber Hu. 
 - 🔭 I’m currently working on Spatial Computing and Autonomous World.
