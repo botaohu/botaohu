@@ -1,5 +1,4 @@
 
-### Hi there, 
 - 👨‍🦱 This is Botao Amber Hu.
 - I'm a Researcher, Designer & Creative Technologist for Spatial Computing.
 - I'm the founder of a creative spatial computing lab, [Holo Interactive](https://github.com/holoi). 
