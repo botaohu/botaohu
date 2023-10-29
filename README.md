@@ -7,7 +7,7 @@
     - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality
   - Mixed Reality as Media Arts 
   - Autonomous Worlds
-  - Artificial Life
+  - Artificial Life 
     - Interspecies Presence
 - ⚡ Fun facts: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
