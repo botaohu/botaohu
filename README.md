@@ -7,7 +7,7 @@
   - Mixed Reality Co-presence
     - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality
   - Mixed Reality as Media Arts
-  - Playable City
+  - Mixed Reality (Playable) City
   - Autonomous Worlds
   - Artificial Life 
     - Interspecies Presence
