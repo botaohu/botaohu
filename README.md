@@ -9,7 +9,7 @@
   - Design Theory:
     - Permissionless (Mixed) Reality
     - Mixed Reality for Intercorporeality
-    - Mixed Reality for Human-City interaction
+    - Mixed Reality for Human-City Interaction
     - Autonomous Worlds in Mixed Reality
     - Artificial Life in Mixed Reality
 - ⚡ Fun facts: 
