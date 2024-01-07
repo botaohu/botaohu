@@ -11,7 +11,7 @@
     - Permissionless (Mixed) Reality
     - Mixed Reality for Intercorporeality
     - Mixed Reality for Human-City Interaction
-    - Autonomous Worlds in Mixed Reality
+    - [Autonomous Worlds](https://aw.network) in Mixed Reality
     - Artificial Life in Mixed Reality
     - Motion Graphics in XR
 - ⚡ Fun facts: 
