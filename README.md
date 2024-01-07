@@ -4,9 +4,9 @@
 - I'm the founder of a creative spatial computing lab, [Holo Interactive](https://github.com/holoi).
 - 🔭 My work interests:
   - Open-sourcing Creative Tools for Mixed Reality 
-  - Design Theory: Mixed Reality Presence & Co-presence
-    - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality / Asymmetric Mixed Reality
   - Design Theory:
+    - Mixed Reality Presence & Co-presence
+      - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality / Asymmetric Mixed Reality
     - Permissionless (Mixed) Reality
     - Mixed Reality for Intercorporeality
     - Mixed Reality for Human-City Interaction
