@@ -7,12 +7,11 @@
   - Design Theory: Mixed Reality Presence & Co-presence
     - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality / Asymmetric Mixed Reality
   - Design Theory:
-    - Permissionless Reality
-    - Mixed Reality for Media Arts
-    - Mixed Reality for Playable City
-    - Autonomous Worlds
-    - Artificial Life 
-    - Interspecies Presence
+    - Permissionless (Mixed) Reality
+    - Mixed Reality for Intercorporeality
+    - Mixed Reality for Human-City interaction
+    - Autonomous Worlds in Mixed Reality
+    - Artificial Life in Mixed Reality
 - ⚡ Fun facts: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
   - I designed an award-winning multiplayer AR game: [MOFA](https://mofa.ar)
