@@ -3,8 +3,9 @@
 - I'm a researcher and designer for spatial computing. 
 - I'm the director of [Reality Design Lab](https://github.com/realitydeslab). 
 - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community. 
-- 🔭 My work interests:
-  - Open-sourcing Creative Tools for Mixed Reality 
+- 🔭 My research interests:
+  - Open-sourcing Creative Tools for Mixed Reality
+    - HoloKit
   - Design Theory:
     - Embodied interaction within Mixed Reality
       - Co-presence / Co-location / Tele-presence / Inter-presence
