@@ -1,19 +1,21 @@
 
 - 👨‍🦱 This is Botao Amber Hu.
-- I'm a Researcher, Designer & Creative Technologist for Spatial Computing.
-- I'm the founder of a creative spatial computing lab, [Holo Interactive](https://github.com/holoi). 
+- I'm a researcher and designer for spatial computing. 
+- I'm the director of [Reality Design Lab](https://github.com/realitydeslab). 
 - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community. 
 - 🔭 My work interests:
   - Open-sourcing Creative Tools for Mixed Reality 
   - Design Theory:
-    - Mixed Reality Presence & Co-presence
-      - Co-presence / Co-location / Tele-presence / Inter-presence / Cross-reality / Asymmetric Mixed Reality
-    - Permissionless (Mixed) Reality
-    - Mixed Reality for Intercorporeality
-    - Mixed Reality for Human-City Interaction
-    - [Autonomous Worlds](https://aw.network) in Mixed Reality
-    - Artificial Life in Mixed Reality
-    - Motion Graphics in XR
+    - Embodied Interaction within Mixed Reality
+      - Co-presence / Co-location / Tele-presence / Inter-presence
+      - Cross-reality
+      - Asymmetric Mixed Reality
+      - Intercorporeality
+      - Human-City Interaction
+    - Cryptography-substrated Speculative Design
+      - Permissionless (Mixed) Reality
+      - Onchain Artificial Life
+      - [Autonomous Worlds](https://aw.network) in Mixed Reality
 - ⚡ Fun facts: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
   - I designed an award-winning multiplayer AR game: [MOFA](https://mofa.ar)
