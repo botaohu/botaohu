@@ -1,5 +1,5 @@
 
-- 👨‍🦱 This is Botao Amber Hu.
+- 👨‍🦱 This is [Botao Amber Hu](https://botao.hu).
 - I'm a researcher and designer for spatial computing. 
 - I'm the director of [Reality Design Lab](https://github.com/realitydeslab). 
 - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community. 
