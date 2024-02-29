@@ -5,15 +5,15 @@
   - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community. 
 
 - My research interests:
-  - Open-sourcing Creative Tools for Mixed Reality 
+  - Open-sourcing creative tools for Mixed Reality 
     - HoloKit
   - Embodied interaction design within Mixed Reality
     - Co-presence / Co-location / Tele-presence / Inter-presence
     - Cross-reality
-    - Asymmetric Mixed Reality
+    - Asymmetric mixed reality
     - Intercorporeality
     - Human-City Interaction
-  - Cryptography-substrated speculative design 
+  - Cryptography-substrated Speculative Design 
     - Permissionless (Mixed) Reality
     - Onchain Artificial Life
     - [Autonomous Worlds](https://aw.network) in Mixed Reality
