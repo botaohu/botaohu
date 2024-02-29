@@ -1,7 +1,7 @@
 - About me
   - This is [Botao Amber Hu](https://botao.hu).
   - I'm a researcher and designer for mixed reality, running a spatial computing lab ᯅ [Reality Design Lab](https://github.com/realitydeslab). 
-  - I'm also a programmable cryptography researcher sponsored by ▲▼▲ [Generative Ventures](https://x.com/genventurecap). 
+  - I'm also a cryptography researcher sponsored by ▲▼▲ [Generative Ventures](https://x.com/genventurecap). 
   - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community. 
 
 - My research interests:
