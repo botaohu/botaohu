@@ -7,17 +7,16 @@
 - My research interests:
   - Open-sourcing Creative Tools for Mixed Reality 
     - HoloKit
-  - Design Theory:
-    - Embodied interaction within Mixed Reality
-      - Co-presence / Co-location / Tele-presence / Inter-presence
-      - Cross-reality
-      - Asymmetric Mixed Reality
-      - Intercorporeality
-      - Human-City Interaction
-    - Cryptography-substrated speculative design 
-      - Permissionless (Mixed) Reality
-      - Onchain Artificial Life
-      - [Autonomous Worlds](https://aw.network) in Mixed Reality
+  - Embodied interaction design within Mixed Reality
+    - Co-presence / Co-location / Tele-presence / Inter-presence
+    - Cross-reality
+    - Asymmetric Mixed Reality
+    - Intercorporeality
+    - Human-City Interaction
+  - Cryptography-substrated speculative design 
+    - Permissionless (Mixed) Reality
+    - Onchain Artificial Life
+    - [Autonomous Worlds](https://aw.network) in Mixed Reality
 - Fun facts: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
   - I designed an award-winning multiplayer AR game: [MOFA](https://mofa.ar)
