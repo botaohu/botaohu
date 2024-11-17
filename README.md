@@ -1,22 +1,25 @@
 - About me
   - This is [Botao Amber Hu](https://botao.hu).
-  - I'm a researcher and designer for mixed reality, running a spatial computing lab ᯅ [Reality Design Lab](https://github.com/realitydeslab). 
-  - I'm also a cryptography researcher sponsored by ▲▼▲ [Generative Ventures](https://x.com/genventurecap). 
-  - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community. 
+  - I'm a researcher and designer for social mixed reality, running a spatial computing lab ᯅ [Reality Design Lab](https://github.com/realitydeslab). 
+  - I'm also a protocol researcher sponsored by [Summer of Protocols](https://summerofprotocols.com/) and [Generative Ventures](https://x.com/genventurecap). 
+  - I'm a digital nomad travelling around the world, sometimes co-living with [Zuzalu](https://zuzalu.city) community and [Edge City](https://www.edgecity.live/). 
 
 - My research interests:
+  - Experiential Futures using Social Mixed Reality
+    - Bodies in the City
+    - Encounters using Mixed reality
+    - Intercorporeality
+    - Social Bodily Play
+    - Mediated Realities
+    - Cryptography-based Speculative Design
   - Open-sourcing creative tools for Mixed Reality 
     - HoloKit
-  - Embodied interaction design within Mixed Reality
-    - Co-presence / Co-location / Tele-presence / Inter-presence
-    - Cross-reality
-    - Asymmetric mixed reality
-    - Intercorporeality
-    - Human-City Interaction
-  - Cryptography-substrated Speculative Design 
-    - Permissionless (Mixed) Reality
+    - HoloField
+    - HoloWeb
+  - Systemic Reflections 
+    - Permissionless Reality
     - Onchain Artificial Life
-    - [Autonomous Worlds](https://aw.network) in Mixed Reality
+    - [Autonomous Worlds](https://aw.network)
 
 - Selected projects: 
   - I worked for [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
